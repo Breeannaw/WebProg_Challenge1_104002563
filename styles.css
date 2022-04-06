@@ -1,3 +1,4 @@
+
 h1 {
   font-size: 300%;
   height: 2%;
@@ -13,8 +14,9 @@ li {
   font-size: small;
 }
 
-.col-sm-4 {
+.Title {
   margin-bottom: 3%;
+  
 }
 
 h3 {
